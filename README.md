@@ -3,5 +3,4 @@
 * 🐞 Experienced in QA Software testing and Automation.
 
 ## My Skills:
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,c,python)](https://skillicons.dev)
